@@ -10,5 +10,7 @@
 # Тема "Прогнозирование оттока клиентов банка"
 
 Данные находятся в файле *Bank_Customer_Churn_Prediction.csv* взятый с сайта Kaggle https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset/data
+
 На данный момент сделано: немного EDA и визуализаций, сформированы гипотезы и определены машинного обучения которые будут использоваться.
+
 Ноутбук с основной частью проекта *sample.ipynb*
